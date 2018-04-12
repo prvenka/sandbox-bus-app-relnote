@@ -3,14 +3,14 @@
 
 title: Business process flows
 description: [Full description that appears in the search results. Should not duplicate the first paragraph of your topic.]
-author: [author's GitHub alias]
+author: margoc
 manager: [AnnBe/shellyhaverkamp/edupont04]
-ms.date: [Today's date]
+ms.date: 04/12/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: [author's Microsoft alias]
+ms.author: margoc
 
 ---
 
