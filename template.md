@@ -11,6 +11,7 @@ ms.prod:
 ms.service: business-applications
 ms.technology: 
 ms.author: [author's Microsoft alias]
+ms.reviewer: [content publisher Microsoft alias]
 audience: [Developer, Admin, End user, Citizen developer]
 
 ---
@@ -19,7 +20,7 @@ audience: [Developer, Admin, End user, Citizen developer]
 
 [!include[banner](includes/banner.md)]
 
-Describe your new feature, and then give an elevator pitch of the business value for it. Include high-value features that light up something exciting for our customers. This should be features that a customer needs to plan for...definitely larger than a hotfix or bug fix. This is information that you would previously have included in the roadmap.
+Describe your new feature, and then give an elevator pitch of the business value for it. Include high-value features that light up something exciting for our customers. This should be features that a customer needs to plan for...definitely larger than a hotfix or bug fix. This is information that you would previously have included in the roadmap. Indicate whether this is a regional feature in the title and description. 
 
 If your feature has been designated as a key feature, complete this entire template. If it isn't, then only complete the **Business value** and **Describe the feature** sections.
 
