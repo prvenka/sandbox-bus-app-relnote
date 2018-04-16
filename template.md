@@ -11,9 +11,7 @@ ms.prod:
 ms.service: business-applications
 ms.technology: 
 ms.author: [author's Microsoft alias]
-ms.reviewer: [content publisher Microsoft alias]
-audience: [Business user, IT Pro, Citizen developer, Developer, Business analyst, Admin]
-# ms.search.region: [Complete if a regional feature]
+audience: [Developer, Admin, End user, Citizen developer, Customizer, Business analyst, IT Pro]
 
 ---
 
@@ -21,32 +19,28 @@ audience: [Business user, IT Pro, Citizen developer, Developer, Business analyst
 
 [!include[banner](includes/banner.md)]
 
-Describe your new feature, and then give an elevator pitch of the business value for it. Include high-value features that light up something exciting for our customers. This should be features that a customer needs to plan for...definitely larger than a hotfix or bug fix. This is information that you would previously have included in the roadmap. Indicate whether this is a regional feature in the title and description. 
+Describe your new feature, and then give an elevator pitch of the business value for it. Include high-value features that light up something exciting for our customers. This should be features that a customer needs to plan for...definitely larger than a hotfix or bug fix. This is information that you would previously have included in the roadmap.
 
-If your feature has been designated as a key feature, complete this entire template. If it isn't a key feature, then only complete the **Business value** and **Describe the feature** sections.
+If your feature has been designated as a key feature, complete this entire template. If it isn't, then only complete the **Business value**, **Describe the feature**, and **Status** sections.
 
-## Business value
-What are the top capabilities of this feature and what business problems does it solve?  
-
-**Example**
-
-## Describe the feature
-What scenarios does this support? Include example scenario and screen shots. 
+## Business value (Required)
+What are the top capabilities of this feature and what business problems does it solve.  
 
 **Example**
 
-### Who uses this feature
-Indicate persona:  business user, IT Pro, citizen developer, developer, business analyst, admin
+## Describe the feature (Required)
+What scenarios does this support. Include example scenario and screen shots. 
 
 **Example**
 
+### Who uses this feature (Required)
+Indicate persona:  end users, admins, customizers, citizen developers, developers, business analysts, IT Pro
+
+**Example**
 This feature is used by Retail xxx. You can use it without any additional set up work by an administrator. 
 
-## Request access to this feature or give feedback about it
-Provide any links to sign up for a feature, and, if there is one, include an alias or link to relevant Yammer groups, or other community. 
-
 ### License required
-
+List the license a customer must have to use this, if required beyond the basic license for your feature. 
 
 ### Setup required (if any beyond standard product setup)
 
@@ -56,34 +50,30 @@ Provide any links to sign up for a feature, and, if there is one, include an ali
 
 **Example**
 
-
 ## Compliance, privacy and security considerations
-List any relevant compliance, privacy and security considerations. 
 
-**Example**
 
-## Status
+## Status (Required)
 
 ### Development status
-Choose one of : Generally available, Public preview, In development
+(generally available, public preview, in development)
 
 Note: Anything that is in private preview is considered to be in development
 
 #### Target timeframe
-Enter one of the following: Release name if committed to a release, Month if committed to a month, Month or later if dubious about getting out in a specific month.
+(Month or release)
 
-### Availability
-Use tabs to indicate when the feature will be available: 
+(Release if committed to a release, Month if committed to a month, Month or later if dubious)
+**Example**
 
+### Availability (current availability)
 Cloud, On-premises, Government cloud
 
-**Example**
-
 ### Regional availability
-Use tabs to indicate the regions that a feature will be available in, and when. See example.
+List whether this feature is available globally or restricted to specific regions.
 
-**Example**
-
+## Tell us what you think
+Include an alias or link for feedback for the feature.
 
 ## We'd like to thank
-Link to ideas/User voice item, if one exists. If not, delete this section.
+Link to ideas/User voice item. 
