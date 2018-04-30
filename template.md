@@ -19,7 +19,7 @@ audience: [Developer, Admin, End user, Citizen developer, Customizer, Business a
 
 [!include[banner](includes/banner.md)]
 
-Describe your new feature, and then give an elevator pitch of the business value for it. Include high-value features that light up something exciting for our customers. This should be features that a customer needs to plan for...definitely larger than a hotfix or bug fix. This is information that you would previously have included in the roadmap.
+Describe your new feature, and then give an elevator pitch of the business value for it. Include high-value features that light up something exciting for our customers. This should be features that a customer needs to plan for...definitely larger than a hotfix or bug fix.
 
 If your feature has been designated as a key feature, complete this entire template. If it isn't, then only complete the **Business value**, **Describe the feature**, and **Status** sections.
 
@@ -54,9 +54,12 @@ This feature must be enabled in System parameters by an administrator.
 ### Quick steps (provide if feature is done enough)
 
 **Example**
-Author and edit well-formatted content for knowledge articles using a rich text editor. The editor brings common word processor features like advanced styling, linking, find and replace, and insert images and tables. Search, publish, and translate knowledge articles. Preview how the knowledge articles render on different devices before publishing.
+To get started with model‑driven apps, use designers to:
+- Define your site map. Model your app's navigation, pulling in only the subset of information your users need. Take advantage of multiple levels of hierarchy and the ability to reference external resources.
+- Add dashboards. Include model‑driven dashboards or embedded Power BI content within your app.
+- Include entities and components. Add specific forms, views, dashboards, and charts for targeted entities to craft your user experience.
 
-<<screenshot here>>
+![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT") 
 
 ## Compliance, privacy and security considerations
 List any compliance, privacy and security considerations.
