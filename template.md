@@ -11,7 +11,7 @@ ms.prod:
 ms.service: business-applications
 ms.technology: 
 ms.author: [author's Microsoft alias]
-audience: [Developer, Admin, End user, Citizen developer, Customizer, Business analyst, IT Pro]
+audience: [developer, admin, end user, citizen developer, customizer, business analyst, IT pro]
 
 ---
 
@@ -19,18 +19,18 @@ audience: [Developer, Admin, End user, Citizen developer, Customizer, Business a
 
 [!include[banner](includes/banner.md)]
 
-Describe your new feature, and then give an elevator pitch of the business value for it. Include high-value features that light up something exciting for our customers. This should be features that a customer needs to plan for...definitely larger than a hotfix or bug fix.
+Describe the new feature, and then give an elevator pitch of the business value for it. Include high-value capabilities that light up something exciting for our customers. The feature should be something that a customer needs to plan for...definitely larger than a hotfix or bug fix.
 
-If your feature has been designated as a key feature, complete this entire template. If it isn't, then only complete the **Business value**, **Describe the feature**, and **Status** sections.
+If the feature has been designated as a key feature, complete the entire template. Otherwise, only complete the **Business value**, **Describe the feature**, and **Status** sections.
 
 ## Business value (Required)
-What are the top capabilities of this feature and what business problems does it solve.  
+Describe the top capabilities of the feature and and the business problems it solves.  
 
 **Example**
 End-of-day processing is a crucial element of retail operational workflow. This involves aggregation of raw transactions into meaningful business data to ensure that business and accounting rules are conformed to, before posting transactions as official business records. Improving the reliability and performance of this batch process and increasing the visibility of the processing for the administrator improves the user experience. Users can easily monitor the progress of the processing and see exactly what caused a validation failure. As a result, they can quickly resolve the issue and reliably retry the process without contacting Microsoft Support. 
 
 ## Describe the feature (Required)
-What scenarios does this support. Include example scenario and screen shots. 
+Describe how the feature works and the scenarios the feature enables. Include concrete examples and screenshots. 
 
 **Example**
 New capabilities include improved statement posting performance by removing table deadlocks and optimizing batch processing. The introduction of a state model in the posting process aids in rollback and recovery, which eliminates data corruption and the need for manual intervention. Enhanced in-app diagnostics with detailed status, errors, and logs (including details of transactions included in the scope of the statement, transactions resulting in errors, and possible steps to correct issues) allow for easy troubleshooting. 
@@ -38,13 +38,13 @@ New capabilities include improved statement posting performance by removing tabl
 <<screenshot goes here>>
 
 ### Who uses this feature (Required)
-Indicate persona:  end users, admins, customizers, citizen developers, developers, business analysts, IT Pro
+Indicate each persona impacted:  end user, admin, customizer, citizen developer, developer, business analyst, IT Pro
 
 **Example**
-This feature is intended for retail administrators. It can be used without any additional set up work. 
+This feature is intended for retail administrators. It works without any additional setup. 
 
 ### License required
-List the license a customer must have to use this, if required beyond the basic license for your feature. 
+List the license(s) a customer must have to use the feature. 
 
 ### Setup required (if any beyond standard product setup)
 
@@ -62,14 +62,14 @@ To get started with model‑driven apps, use designers to:
 ![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT") 
 
 ## Compliance, privacy and security considerations
-List any compliance, privacy and security considerations.
+List any compliance, privacy and security considerations that customers should plan for, including any steps or tools provided to help customers comply with GDPR. 
 
 ## Status (Required)
 
 ### Development status
 Pick one: Generally available, Public preview, In development
 
-Note: Anything that is in private preview is considered to be in development
+Notes: In development features are features that some teams may have previously included on the roadmap site. Anything in Private preview is considered to be In development. 
 
 #### Target timeframe
 Enter the release, month, or month or later if dubious. (Release if committed to a release, Month if committed to a month, Month or later if dubious)
