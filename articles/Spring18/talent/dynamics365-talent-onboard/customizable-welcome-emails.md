@@ -1,10 +1,10 @@
 ---
 
 title: Customizable welcome emails
-description: Managers can personalize the welcome email sent to their new hires when it’s time to onboard.
+description: Customizable welcome emails
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

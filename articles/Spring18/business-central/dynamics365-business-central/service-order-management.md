@@ -1,10 +1,10 @@
 ---
 
 title: Service order management
-description: With **Premium licensing**, you get access to service management capabilities.
+description: Service order management
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

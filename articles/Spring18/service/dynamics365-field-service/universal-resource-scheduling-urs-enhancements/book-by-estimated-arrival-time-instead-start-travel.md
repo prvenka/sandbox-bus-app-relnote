@@ -4,7 +4,7 @@ title: Book by estimated arrival time instead of start of travel
 description: When resource managers search for availability, especially with the customer on the phone at the same time, it is important that they can communicate the available appointment times efficiently.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

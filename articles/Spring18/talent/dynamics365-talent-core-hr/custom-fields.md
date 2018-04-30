@@ -1,10 +1,10 @@
 ---
 
 title: Custom fields
-description: Custom fields functionality enables new fields to be added to support additional tracking, integrations (using entities), and exports for reporting.
+description: Custom fields
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

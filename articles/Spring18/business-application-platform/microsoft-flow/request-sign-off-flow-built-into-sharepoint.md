@@ -1,10 +1,10 @@
 ---
 
-title: Request for sign-off flow built into SharePoint
-description: Use the Request sign-off feature in SharePoint to quickly send an item for approval to someone in your organization (no setup required).
+title: Request for sign off flow built into SharePoint
+description: Request for sign off flow built into SharePoint
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

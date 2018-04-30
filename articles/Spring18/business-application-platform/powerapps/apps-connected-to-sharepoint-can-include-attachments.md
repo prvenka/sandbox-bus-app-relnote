@@ -4,7 +4,7 @@ title: Apps connected to SharePoint can include attachments
 description: Apps connected to a SharePoint list with attachments can now both read and write attachments to the SharePoint site in PowerApps.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

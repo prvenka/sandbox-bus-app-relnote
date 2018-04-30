@@ -4,7 +4,7 @@ title: Customize SharePoint content approvals with Flow
 description: For any modern SharePoint page libraries, site administrators and owners can turn on content approvals for new edits.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

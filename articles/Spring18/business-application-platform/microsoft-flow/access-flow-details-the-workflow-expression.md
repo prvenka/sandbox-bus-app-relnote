@@ -1,10 +1,10 @@
 ---
 
-title: Access flow details with the workflow() expression
-description: The last feature we added is a new output property called **tags** to the **workflow()** expression.
+title: Access flow details with the workflow   expression
+description: Access flow details with the workflow   expression
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

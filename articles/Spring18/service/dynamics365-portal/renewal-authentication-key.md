@@ -1,10 +1,10 @@
 ---
 
 title: Renewal of authentication key
-description: Dynamics 365 Portal connects to an organization using an authentication key linked to Azure Active Directory.
+description: Renewal of authentication key
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

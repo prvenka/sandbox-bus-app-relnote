@@ -4,7 +4,7 @@ title: Add multiple records to array inputs
 description: There are many actions in Flow that take an array as an input.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

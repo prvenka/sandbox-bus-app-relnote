@@ -1,10 +1,10 @@
 ---
 
-title: Server-side logic for validation
-description: Business rules on Common Data Service for Apps entities make it possible to visually define server-side business logic for canvas and model‑driven apps.
+title: Server side logic for validation
+description: Server side logic for validation
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

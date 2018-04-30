@@ -1,10 +1,10 @@
 ---
 
-title: Dynamics 365 Gamification
+title: Dynamics 365 Gamification
 description: With the Gamification solution, organizations can set up competitions that incentivize employees to meet business goals.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

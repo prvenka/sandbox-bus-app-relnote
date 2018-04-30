@@ -4,7 +4,7 @@ title: Searchable attachments for knowledge articles
 description: Knowledge article attachments are searchable to increase the likelihood of relevant search results.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

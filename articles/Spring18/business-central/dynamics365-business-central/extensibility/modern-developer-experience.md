@@ -1,10 +1,10 @@
 ---
 
 title: Modern developer experience
-description: By using Visual Studio Code, you can build powerful extensions in a modern file-based development environment and language.
+description: Modern developer experience
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

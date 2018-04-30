@@ -4,7 +4,7 @@ title: Survey translation enhancements
 description: Survey translation files are validated for any missing translated strings or incorrect HTML formatting when a survey is previewed or published.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

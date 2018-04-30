@@ -1,10 +1,10 @@
 ---
 
 title: Controllable delegation limits for canvas apps
-description: Users can now control delegation limits for non-delegable data sources that have up to a maximum of 2,000 records, allowing client-side operations to work on larger datasets.
+description: Controllable delegation limits for canvas apps
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

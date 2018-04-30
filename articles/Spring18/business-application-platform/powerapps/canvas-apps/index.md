@@ -1,10 +1,10 @@
 ---
 
 title: Canvas apps
-description: You can now build two types of applications with PowerApps canvas apps and model‑driven apps.
+description: Canvas apps
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,10 @@
 ---
 
-title: Multi-channel campaign orchestration with customer journeys
+title: Multi channel campaign orchestration with customer journeys
 description: Create automated multichannel campaigns using the graphical and extensible customer journey designer.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

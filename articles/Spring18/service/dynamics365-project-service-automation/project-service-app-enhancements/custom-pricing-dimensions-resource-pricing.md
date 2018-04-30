@@ -4,7 +4,7 @@ title: Custom pricing dimensions for resource pricing
 description: To maximize flexibility to meet different business requirements, the updated Project Service solution supports discrete application of pricing dimension sets to cost and bill rates.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

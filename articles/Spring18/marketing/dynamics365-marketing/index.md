@@ -1,10 +1,10 @@
 ---
 
-title: Dynamics 365 for Marketing
-description: Dynamics 365 for Marketing delivers comprehensive capabilities for creating and running multi‑channel campaigns to generate leads for your sales team using simple drag-and-drop design tools.
+title: Dynamics 365 for Marketing
+description: Dynamics 365 for Marketing
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,10 @@
 ---
 
-title: Create a flow for Microsoft To-Do in Outlook Web App
-description: A popular feature in Outlook is the sender's ability to explicitly call out a person on the recipient list to draw his or her attention to the email.
+title: Create a flow for Microsoft To Do in Outlook Web App
+description: Create a flow for Microsoft To Do in Outlook Web App
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -4,7 +4,7 @@ title: Content creation
 description: Create modern online content, including visually rich email messages, landing pages, and forms using intuitive, graphical digital content designers.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

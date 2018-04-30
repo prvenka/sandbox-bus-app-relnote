@@ -4,7 +4,7 @@ title: Add an action to a business process flow
 description: You can add an action that triggers a workflow to run processes on your data.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

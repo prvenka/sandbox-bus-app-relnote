@@ -1,10 +1,10 @@
 ---
 
 title: Deployment and servicing
-description: Retail organizations, especially those with globally-distributed operations, often find it challenging to pick a single maintenance window that is simultaneously non-disruptive to their entire global operational footprint.
+description: Deployment and servicing
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

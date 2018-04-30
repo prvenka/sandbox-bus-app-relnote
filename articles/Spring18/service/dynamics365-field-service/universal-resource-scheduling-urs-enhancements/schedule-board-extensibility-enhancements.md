@@ -1,10 +1,10 @@
 ---
 
 title: Schedule board extensibility enhancements
-description: ##### Multi-select option set fields can be queried and displayed  When modifying a UFX query for an extensible scheduling scenario, you can now query multi-select option set fields.
+description: Schedule board extensibility enhancements
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

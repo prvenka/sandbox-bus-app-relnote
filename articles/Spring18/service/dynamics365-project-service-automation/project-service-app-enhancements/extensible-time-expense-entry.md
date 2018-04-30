@@ -1,10 +1,10 @@
 ---
 
 title: Extensible time and expense entry
-description: With the Unified Interface framework, user interface controls for time and expense entry can be customized to align with an organization’s unique business policies and workflows.
+description: Extensible time and expense entry
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

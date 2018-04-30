@@ -1,10 +1,10 @@
 ---
 
-title: Payroll integration/payroll data package
-description: Plug Talent into your broader HR technology ecosystem by connecting your payroll system through a purpose-built, out-of-box integration to Ceridian, or connect manually to other payroll providers.
+title: Payroll integration payroll data package
+description: Payroll integration payroll data package
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

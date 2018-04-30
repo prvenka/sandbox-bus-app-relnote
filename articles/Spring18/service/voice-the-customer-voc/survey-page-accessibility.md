@@ -4,7 +4,7 @@ title: Survey page accessibility
 description: The portal used by survey respondents to submit their responses is accessible for users who require assistive technologies to interact with the survey page.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

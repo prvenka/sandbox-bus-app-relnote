@@ -4,7 +4,7 @@ title: Keep the context when searching for availability and substituting a resou
 description: The solution supports keeping the context when a user moves an existing booking to a different resource to make room for a new scheduling requirement.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

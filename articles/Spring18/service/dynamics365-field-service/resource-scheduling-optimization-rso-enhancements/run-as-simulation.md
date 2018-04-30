@@ -4,7 +4,7 @@ title: Run as a simulation
 description: The admin can run a schedule on demand as a simulation, which results in resource bookings that are simulations without affecting actual bookings.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

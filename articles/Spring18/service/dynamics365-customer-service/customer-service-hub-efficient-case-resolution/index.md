@@ -1,10 +1,10 @@
 ---
 
-title: Customer Service Hub for efficient case resolution
-description: Customer Service Hub for efficient case resolution
+title: Customer Service Hub for efficient case resolution
+description: Customer Service Hub for efficient case resolution
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,10 @@
 ---
 
 title: Step Two
-description: After you have built your flow and collected the data you need, add the **Respond to PowerApps** action.
+description: Step Two
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

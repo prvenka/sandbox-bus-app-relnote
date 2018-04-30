@@ -1,10 +1,10 @@
 ---
 
 title: GDPR and accessibility
-description: The customer data sent to and processed by Dynamics 365 Portal can be configured to address requirements of the General Data Protection Regulation (GDPR) adopted by the European Union.
+description: GDPR and accessibility
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

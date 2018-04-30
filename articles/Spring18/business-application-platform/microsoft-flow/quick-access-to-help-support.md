@@ -1,10 +1,10 @@
 ---
 
 title: Quick access to help and support
-description: If you encounter issues when you’re building or running a flow, or encounter any other issue while using Flow, open a support ticket from the Flow website (you don’t have to go to a separate portal and sign in again to provide issue details).
+description: Quick access to help and support
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

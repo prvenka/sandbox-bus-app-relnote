@@ -1,10 +1,10 @@
 ---
 
 title: Koru
-description: Koru is a third-party company that applies predictive analytics to assess, score, and rank candidates’ fit for an organization.
+description: Koru
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

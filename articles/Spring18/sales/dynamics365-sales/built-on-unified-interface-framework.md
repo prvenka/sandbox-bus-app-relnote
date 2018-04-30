@@ -4,7 +4,7 @@ title: Built on the Unified Interface framework
 description: Because the app relies on the Unified Interface framework, the user experience follows consistent, familiar patterns making it easier for salespeople to get up and running quickly and be more productive.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

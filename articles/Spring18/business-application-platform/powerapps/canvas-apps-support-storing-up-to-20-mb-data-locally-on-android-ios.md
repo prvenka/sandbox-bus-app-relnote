@@ -1,10 +1,10 @@
 ---
 
 title: Canvas apps support storing up to 20 MB of data locally on Android and iOS
-description: Apps using the SaveData and LoadData functions for building offline-enabled apps on PowerApps can now save up to 20 MB of data in a single SaveData/LoadData call.
+description: Canvas apps support storing up to 20 MB of data locally on Android and iOS
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

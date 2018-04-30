@@ -1,10 +1,10 @@
 ---
 
 title: GDPR investments
-description: General Data Protection Regulation (GDPR) investments address the European privacy law’s requirements.
+description: GDPR investments
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

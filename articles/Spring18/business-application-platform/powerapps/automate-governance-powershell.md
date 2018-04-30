@@ -1,10 +1,10 @@
 ---
 
 title: Automate governance with PowerShell
-description: The new [PowerShell admin cmdlets](https://powerapps.
+description: Automate governance with PowerShell
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

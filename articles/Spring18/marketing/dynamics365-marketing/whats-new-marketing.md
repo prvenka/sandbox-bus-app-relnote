@@ -1,10 +1,10 @@
 ---
 
-title: Spring ’18 summary of what’s new in Marketing
-description: Spring ’18 summary of what’s new in Marketing
+title: Spring  18 summary of what s new in Marketing
+description: Spring  18 summary of what s new in Marketing
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

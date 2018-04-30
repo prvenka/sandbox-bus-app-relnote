@@ -4,7 +4,7 @@ title: Step One
 description: To set up a flow that calls data from PowerApps, first start your flow with the PowerApps trigger.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

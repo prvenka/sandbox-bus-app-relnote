@@ -1,10 +1,10 @@
 ---
 
-title: Spring ’18 summary of what’s new in Sales
-description: Spring ’18 summary of what’s new in Sales
+title: Spring  18 summary of what s new in Sales
+description: Spring  18 summary of what s new in Sales
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

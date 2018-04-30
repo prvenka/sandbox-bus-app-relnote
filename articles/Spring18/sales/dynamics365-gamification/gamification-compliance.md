@@ -1,10 +1,10 @@
 ---
 
 title: Gamification compliance
-description: With the Spring ’18 release, investments address General Data Protection Regulation (GDPR) requirements.
+description: Gamification compliance
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

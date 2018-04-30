@@ -4,7 +4,7 @@ title: Search for knowledge articles on the reference panel
 description: Reference panel tabs allow agents to quickly find related records, or search knowledge articles for accounts, contacts, cases, and other knowledge articles.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

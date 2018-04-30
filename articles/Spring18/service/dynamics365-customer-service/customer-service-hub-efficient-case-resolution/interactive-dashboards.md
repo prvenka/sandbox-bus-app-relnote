@@ -1,10 +1,10 @@
 ---
 
 title: Interactive dashboards
-description: Customer Service Hub dashboards are a one-stop workplace where agents and supervisors review their workload and take actions to resolve issues.
+description: Interactive dashboards
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

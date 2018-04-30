@@ -1,10 +1,10 @@
 ---
 
-title: Spring ’18 summary of what’s new in Customer Service
-description: Spring ’18 summary of what’s new in Customer Service
+title: Spring  18 summary of what s new in Customer Service
+description: Spring  18 summary of what s new in Customer Service
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -26,8 +26,8 @@ audience: Admin
 | General Data Protection Regulation (GDPR) - Investments address the European privacy law’s requirements. [Go to the Trust Center to learn more and find resources to help you comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx) |
 | Accessibility enhancements - [Go to the Trust Center to learn about our industry‑leading accessibility standards.](https://www.microsoft.com/en-us/trustcenter/compliance/accessibility)                                                                      |
 | Customer Service Hub                                                                                                                                                                                                                                          |
-| [Customer Service Hub on the Unified Interface framework for managing knowledge articles and cases](customer-service-hub-efficient-case-resolution/index.md).                                                                                                                                  |
+| [Customer Service Hub on the Unified Interface framework for managing knowledge articles and cases](_Customer_Service_Hub).                                                                                                                                  |
 | Unified Service Desk                                                                                                                                                                                                                                          |
-| [Best practice analyzer – Developer tool for identifying defects in customizations or extensions](unified-service-desk-enhancements/index.md).                                                                                                                                  |
+| [Best practice analyzer – Developer tool for identifying defects in customizations or extensions](unified-service-desk-enhancements).                                                                                                                                  |
 | April ’18 – Public Preview                                                                                                                                                                                                                                    |
 | Unified Interface integration with Unified Service Desk.                                                                                                                                                                                                      |

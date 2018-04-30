@@ -1,10 +1,10 @@
 ---
 
 title: Monitoring and alerting
-description: Building on existing capabilities related to monitoring of tenant and system-wide availability and reliability, this release extends these capabilities to the next level of granularity by monitoring the health of specific user operations.
+description: Monitoring and alerting
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

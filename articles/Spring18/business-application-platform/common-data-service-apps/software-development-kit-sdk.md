@@ -1,10 +1,10 @@
 ---
 
-title: Software Development Kit (SDK)
+title: Software Development Kit  SDK 
 description: The SDK includes an architectural overview of the Common Data Service for Apps, the entity model, security model, and web services.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

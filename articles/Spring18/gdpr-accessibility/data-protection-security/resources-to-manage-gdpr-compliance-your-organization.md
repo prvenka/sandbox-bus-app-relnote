@@ -4,7 +4,7 @@ title: Resources to manage GDPR compliance for your organization
 description: Resources to manage GDPR compliance for your organization
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

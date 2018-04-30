@@ -1,10 +1,10 @@
 ---
 
 title: Unified Service Desk enhancements
-description: Unified Service Desk for Dynamics 365 provides a configurable framework for building call center applications that deliver a unified view of customer data and numerous communication channels (such as phone, chat, email, and social media) into a single interface.
+description: Unified Service Desk enhancements
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

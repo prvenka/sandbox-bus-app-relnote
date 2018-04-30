@@ -4,7 +4,7 @@ title: Simplified access to entities through foreign key relationships
 description: Makers can now write formulas that work seamlessly between entities, following lookups for related information.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

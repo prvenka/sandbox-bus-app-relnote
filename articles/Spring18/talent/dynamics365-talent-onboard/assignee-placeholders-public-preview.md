@@ -1,10 +1,10 @@
 ---
 
-title: Assignee placeholders (Public Preview)
+title: Assignee placeholders  Public Preview 
 description: Managers can insert assignee placeholders in their template to be filled out later.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

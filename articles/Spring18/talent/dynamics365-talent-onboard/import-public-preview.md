@@ -1,10 +1,10 @@
 ---
 
-title: Import (Public Preview)
+title: Import  Public Preview 
 description: Hiring managers can import content from other guides or templates to ensure that the latest content is always reflected.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

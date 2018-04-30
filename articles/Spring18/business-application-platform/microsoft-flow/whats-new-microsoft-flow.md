@@ -1,10 +1,10 @@
 ---
 
-title: Spring '18 summary of what’s new in Microsoft Flow
-description: Spring '18 summary of what’s new in Microsoft Flow
+title: Spring  18 summary of what s new in Microsoft Flow
+description: Spring  18 summary of what s new in Microsoft Flow
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -22,7 +22,7 @@ audience: Admin
 
 | April '18 - General Availability                                                             |
 |----------------------------------------------------------------------------------------------|
-| [Return data to PowerApps from a flow](return-data-to-powerapps-a-flow/index.md)                                     |
+| [Return data to PowerApps from a flow](return-data-to-powerapps-a-flow)                                     |
 | [Access modern approvals in the Common Data Service for Apps](access-modern-approvals-the-common-data-service-apps.md)     |
 | Find errors in apply to each                                                                 |
 | Reassign approvals                                                                           |
@@ -36,7 +36,7 @@ audience: Admin
 | [Repair recommendations sent in email for failed flows](repair-recommendations-sent-email-failed-flows.md)       |
 | [Request for sign-off flow built into SharePoint](request-sign-off-flow-built-into-sharepoint.md)                    |
 | [Customize SharePoint content approvals with Flow](customize-sharepoint-content-approvals-flow.md)           |
-| [Flows “owned by” SharePoint lists and libraries](flows-owned-by-sharepoint-lists-libraries/index.md) |
+| [Flows “owned by” SharePoint lists and libraries](flows-owned-by-sharepoint-lists-libraries) |
 | [Build and run flows from Excel](build-run-flows-excel.md)                                            |
 | [GDPR compliance](gdpr-compliance.md)                                                        |
 | [Create a business process flow](create-business-process-flow.md)                                        |

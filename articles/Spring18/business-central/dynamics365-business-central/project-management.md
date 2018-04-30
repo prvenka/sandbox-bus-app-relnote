@@ -1,10 +1,10 @@
 ---
 
 title: Project management
-description: Register and sell resources, combine related resources into one resource group, or track individual resources.
+description: Project management
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

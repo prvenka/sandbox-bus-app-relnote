@@ -1,10 +1,10 @@
 ---
 
 title: GDPR compliance
-description: Microsoft is committed to General Data Protection Regulation (GDPR) compliance across our cloud services, including PowerApps.
+description: GDPR compliance
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

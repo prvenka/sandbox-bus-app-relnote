@@ -4,7 +4,7 @@ title: Other
 description: With Essential licensing, you also have access to a wide range of capabilities that go across the various business areas.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

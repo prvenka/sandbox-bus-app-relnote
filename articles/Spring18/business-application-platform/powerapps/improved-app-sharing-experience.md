@@ -1,10 +1,10 @@
 ---
 
 title: Improved app sharing experience
-description: Canvas apps.
+description: Improved app sharing experience
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

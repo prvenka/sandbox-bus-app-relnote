@@ -1,10 +1,10 @@
 ---
 
-title: To add a list or library as a co-owner
-description: To add a list or library as a co-owner
+title: To add a list or library as a co owner
+description: To add a list or library as a co owner
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -4,7 +4,7 @@ title: United Kingdom region
 description: We are announcing availability of the United Kingdom region for Microsoft Flow.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

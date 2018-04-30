@@ -4,7 +4,7 @@ title: Find errors in apply to each
 description: We recently increased the limits for Apply to each, which means you can have loops that contain thousands of items.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

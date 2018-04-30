@@ -1,10 +1,10 @@
 ---
 
 title: Event management
-description: The Marketing application features comprehensive event management, which helps you plan, execute, promote, and follow-up on webinars and in-person events.
+description: Event management
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

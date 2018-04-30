@@ -1,10 +1,10 @@
 ---
 
-title: Dynamics 365 Portal
-description: With the Spring ’18 release, the search experience includes the ability to search within attachments.
+title: Dynamics 365 Portal
+description: Dynamics 365 Portal
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

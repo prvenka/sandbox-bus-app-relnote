@@ -1,10 +1,10 @@
 ---
 
-title: Dynamics 365 for Talent – Attract
-description: The Spring ‘18 releases expand recruiting management capabilities to include support for career websites and for posting multiple jobs at the same time to simplify the job posting process.
+title: Dynamics 365 for Talent   Attract
+description: Dynamics 365 for Talent   Attract
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

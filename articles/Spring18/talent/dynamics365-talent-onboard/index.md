@@ -1,10 +1,10 @@
 ---
 
-title: Dynamics 365 for Talent – Onboard
-description: The focus for Spring '18 updates has been to streamline onboarding at the department level through more robust templates, reporting, and automation.
+title: Dynamics 365 for Talent   Onboard
+description: Dynamics 365 for Talent   Onboard
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

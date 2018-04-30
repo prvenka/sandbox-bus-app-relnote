@@ -4,7 +4,7 @@ title: Microsoft Flow
 description: Microsoft is modernizing business processes across productivity, CRM, and ERP applications, which makes it easier for every business to transform how people work.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

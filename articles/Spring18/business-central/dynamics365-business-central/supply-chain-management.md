@@ -1,10 +1,10 @@
 ---
 
 title: Supply chain management
-description: Manage sales orders, blanket sales orders, and sales order processes.
+description: Supply chain management
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

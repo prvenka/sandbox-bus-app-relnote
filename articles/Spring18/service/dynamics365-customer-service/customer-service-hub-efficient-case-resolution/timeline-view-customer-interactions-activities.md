@@ -4,7 +4,7 @@ title: Timeline view of customer interactions and activities
 description: Capture customer interactions and communications by adding them as activities in the timeline section of the dashboard.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

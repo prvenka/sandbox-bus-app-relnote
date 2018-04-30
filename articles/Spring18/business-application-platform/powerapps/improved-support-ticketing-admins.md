@@ -4,7 +4,7 @@ title: Improved support ticketing for admins
 description: The new Business Application Platform Admin center includes a support ticketing experience that admins can use to easily contact a Microsoft support representative if they are blocked.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

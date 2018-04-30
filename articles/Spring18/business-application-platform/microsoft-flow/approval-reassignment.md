@@ -4,7 +4,7 @@ title: Approval reassignment
 description: If you are unable or do not want to complete an approval yourself, you can now send the approvals you receive to another person.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

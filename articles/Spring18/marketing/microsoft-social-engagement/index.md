@@ -4,7 +4,7 @@ title: Microsoft Social Engagement
 description: Microsoft Social Engagement allows organizations to listen for keywords and phrases on social media to help them understand customer sentiment and engage in conversations about their products and brand.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,10 @@
 ---
 
 title: Support for authoring, searching, publishing, and translating knowledge articles
-description: Author and edit well-formatted content for knowledge articles using a rich text editor.
+description: Support for authoring, searching, publishing, and translating knowledge articles
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

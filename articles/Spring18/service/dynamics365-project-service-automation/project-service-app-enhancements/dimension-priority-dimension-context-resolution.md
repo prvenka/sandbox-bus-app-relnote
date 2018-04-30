@@ -4,7 +4,7 @@ title: Dimension priority and dimension context for resolution
 description: For each pricing dimension, it is now possible to assign a priority by cost, purchase, sales, or other context defined by the system administrator.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

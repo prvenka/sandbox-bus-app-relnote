@@ -1,10 +1,10 @@
 ---
 
-title: Model-driven apps
-description: In addition to the canvas app development that PowerApps has been known for, which provides full visual control over the user experience of an app, PowerApps now offers another choice for high-productivity app development.
+title: Model driven apps
+description: Model driven apps
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -40,7 +40,7 @@ To get started with model‑driven apps, use designers to:
 -   **Include entities and components.** Add specific forms, views, dashboards,
     and charts for targeted entities to craft your user experience.
 
-![A screenshot of the model-driven apps list](media/index-1.jpg "A screenshot of the model-driven apps list")
+![A screenshot of the model-driven apps list](media/index-1.jpeg "A screenshot of the model-driven apps list")
 <!-- Picture 1 -->
 
 

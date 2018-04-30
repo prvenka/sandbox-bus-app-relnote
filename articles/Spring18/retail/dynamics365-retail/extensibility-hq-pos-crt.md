@@ -1,10 +1,10 @@
 ---
 
-title: Extensibility (HQ, POS, CRT)
+title: Extensibility  HQ, POS, CRT 
 description: Most customers customize our product to support their business process.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

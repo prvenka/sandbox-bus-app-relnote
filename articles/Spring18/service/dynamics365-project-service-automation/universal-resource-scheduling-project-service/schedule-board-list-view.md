@@ -1,10 +1,10 @@
 ---
 
 title: Schedule board list view
-description: With the Spring ’18 release, the schedule board list view helps users interact with the schedule board using a list view to see data in a more meaningful way.
+description: Schedule board list view
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

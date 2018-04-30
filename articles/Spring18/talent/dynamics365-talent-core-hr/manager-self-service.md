@@ -1,10 +1,10 @@
 ---
 
-title: Manager self-service
-description: Spring '18 updates provide managers with increased productivity and efficiency by expanding self-service options.
+title: Manager self service
+description: Manager self service
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

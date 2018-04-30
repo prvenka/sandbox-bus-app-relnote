@@ -1,10 +1,10 @@
 ---
 
 title: Test flows with previous run data
-description: When you are editing a flow that you have run in the past, it can be useful to be able to re-run the flow with the trigger data from a previous run.
+description: Test flows with previous run data
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -1,10 +1,10 @@
 ---
 
-title: To add a list or library as a run-only user
-description: Run-only users can only be added to manually invoked flows—for example, flows that use the For a selected item trigger.
+title: To add a list or library as a run only user
+description: To add a list or library as a run only user
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
